@@ -12,3 +12,8 @@ span {font-style:italic;
 .jumbotron2 {background-color: whitesmoke;
 
 }
+
+
+.img-fluid {max-width: 100%; 
+    height:auto } 
+
